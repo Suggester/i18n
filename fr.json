@@ -1,1 +1,1 @@
-{"settings":{"code":"fr","native":"Français","english":"French"},"list":{"USER_STATS_TITLE":"Vos statistiques","SERVER_CONFIGURATION_TITLE":"Configuration de {{server}}"}}
+{"settings":{"code":"fr","native":"Français","english":"French"},"list":{"USER_STATS_TITLE":"Vos statistiques","SERVER_CONFIGURATION_TITLE":"Configuration de {{server}}","CFG_STATUS_GOOD":"Bot configuré, Commandes Fonctionnelles","IS_GLOBALLY_BANNED":"{{banned}} est globalement banni.","COMMAND_DISABLED":"Cette commande est actuellement globalement désactivée."}}
