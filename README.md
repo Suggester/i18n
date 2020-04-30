@@ -1,0 +1,2 @@
+# Suggester i18n
+This repository servers as a database of all translated strings for the Suggester bot. New strings can be submitted using the i18n bot on the [support server](https://discord.gg/G5pEdUp).
